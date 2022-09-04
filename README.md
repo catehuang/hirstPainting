@@ -1,2 +1,2 @@
 # hirstPainting
-** Use Turtle module to create Hirst painting.
+* Use Turtle module to create Hirst painting.
